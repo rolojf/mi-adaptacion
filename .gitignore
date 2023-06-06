@@ -1,15 +1,14 @@
 node_modules/
 elm-stuff/
 dist/
+.cache/
 .elm-pages/
 /tailwind.css
 functions/render
 functions/server-render
 .idea
-/.pnpm-debug.log
 .idea/
 .vscode/
-/pnpm-lock.yaml
 .local/
 docs.json
 .netlify/
